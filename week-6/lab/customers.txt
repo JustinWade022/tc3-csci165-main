@@ -5,7 +5,7 @@ Sanson	Faltskog	sfaltskog3@hao123.com	94373	Clarendon	Crossing	50056
 Suzanna	Kops	skops4@a8.net	363	Welch	Way	31076
 Margi	Topliss	mtopliss5@dailymail.co.uk	34993	Bayside	Road	56344
 Elia	Drissell	edrissell6@qq.com	973	Leroy	Park	37778
-Amity	Dogg	adogg7@newyorker.com	856	Summer Ridge	Hill	66225
+Amity   Dogg    adogg7@newyorker.com    856 Summer Ridge    Hill    66225
 Stacie	Crowdace	scrowdace8@flavors.me	7250	East	Alley	26148
 Bing	Tussaine	btussaine9@princeton.edu	88403	Schiller	Point	49630
 Gerrilee	Flanne	gflannea@godaddy.com	055	Pankratz	Hill	17522
